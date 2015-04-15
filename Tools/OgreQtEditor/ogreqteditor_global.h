@@ -1,0 +1,12 @@
+#ifndef OGREQTEDITOR_GLOBAL_H
+#define OGREQTEDITOR_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#ifdef OGREQTEDITOR_LIB
+# define OGREQTEDITOR_EXPORT Q_DECL_EXPORT
+#else
+# define OGREQTEDITOR_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // OGREQTEDITOR_GLOBAL_H

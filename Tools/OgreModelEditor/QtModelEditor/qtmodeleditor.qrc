@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="">
+    <file>Resources/qtOgitor.png</file>
+    </qresource>
+</RCC>
