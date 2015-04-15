@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>WowModelViewerClass</class>
+ <widget class="QMainWindow" name="WowModelViewerClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>753</width>
+    <height>521</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>WowModelViewer</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="wowmodelviewer.qrc"/>
+ </resources>
+ <connections/>
+</ui>
