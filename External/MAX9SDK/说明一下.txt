@@ -1,0 +1,7 @@
+把 lib 和 include 都加到VC的目录里，
+注意：
+里面的工程都是VC2005的，vc2008也可以编译，但是vc2003我没试过~
+编译时选用Release方式，编出的插件在plugin目录里。
+将编出的插件放到Autodesk\3ds Max 9\plugins里，就可以在打开3ds max9时使用插件了~
+
+http://hi.baidu.com/probill
